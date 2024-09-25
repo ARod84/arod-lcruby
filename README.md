@@ -1,7 +1,7 @@
 # Rails Template for Learning Camp
 
 ## How to use
-
+My read.me line
 1. Clone this repo
 1. Install PostgreSQL in case you don't have it
 1. Install node and yarn. Expected node version ">=16 || 14 >=14.17".
